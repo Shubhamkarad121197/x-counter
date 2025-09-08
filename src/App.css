@@ -1,0 +1,18 @@
+/* *{
+  margin: 0;
+  padding:0
+} */
+
+
+.counterContainer{
+display: flex;
+
+align-items: center;
+
+text-align: center;
+}
+.counter{
+  height: 400px;
+  width: 600px;
+  border: 1px solid;
+}
