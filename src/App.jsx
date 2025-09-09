@@ -13,7 +13,7 @@ function App() {
       <div className='counterContainer'>
         <div className='counter'>
           <h1>Counter App</h1>
-        <span>Count:{count}</span>
+        <span>Count: {count}</span>
         <br />
         <div>
            <button onClick={increment}>Increment</button>
